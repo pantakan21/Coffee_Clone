@@ -1,4 +1,4 @@
-# Coffee Shop Clone
+# Coffee Shop Clone(HTML CSS)
 
 This project is a clone of a coffee shop website, designed to replicate its features and functionality for learning and development purposes.
 
