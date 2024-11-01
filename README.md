@@ -1,4 +1,4 @@
-# Coffee Shop Clone(HTML CSS)
+# Coffee Shop Clone - ฝึกโคลนเว็บเพื่อฝึกการเขียนเว็บ
 
 This project is a clone of a coffee shop website, designed to replicate its features and functionality for learning and development purposes.
 
